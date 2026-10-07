@@ -1,4 +1,4 @@
-# elearning-vd
+# wp-elearning-vd
 
 Plugin WordPress elearning untuk sekolah SD, SMP, dan SMA.
 
